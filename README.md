@@ -5,9 +5,7 @@
   <img alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZwZ2FvaGt0cmNkaTJtNnQ0djJ5YXYwa2x2bGhvYTBoaDg2ZjdzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhidhole2002&label=Profile%20views&color=0e75b6&style=flat" alt="abhidhole2002" />
-</p>
+
 <h3 align="center">📧 How to reach me <strong>abhishekdhole60@gmail.com</strong></h3>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
