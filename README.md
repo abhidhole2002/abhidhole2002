@@ -96,6 +96,9 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode" /><br/>VS Code
     </td>
+     <td align="center">
+      <img src="[https://skillicons.dev/icons?i=vscode](https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg)" /><br/>FileZilla
+    </td>
   </tr>
 </table>
 
