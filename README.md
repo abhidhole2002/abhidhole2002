@@ -12,7 +12,7 @@
 
 ---
 <p align="center">
-### 📫 Reach Me
+📫 Reach Me
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 
 <p align="center">
-### 🔗 Connect With Me
+ 🔗 Connect With Me
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-dhole/" target="_blank">
@@ -35,7 +35,7 @@
 
 
 <p align="center">
-### 🛠 My Tech Toolbox
+ 🛠 My Tech Toolbox
 </p>
 <table align="center">
   <tr>
@@ -106,7 +106,7 @@
 
 
 <p align="center">
-### 📊 GitHub Stats
+📊 GitHub Stats
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhidhole2002&show_icons=true&theme=tokyonight&layout=compact" alt="Top Langs" />
