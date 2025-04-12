@@ -29,16 +29,16 @@
   <a href="https://www.linkedin.com/in/abhishek-dhole/" target="_blank" style="transition: transform 0.3s;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/your_username" target="_blank" style="transition: transform 0.3s;">
+  <a href="https://www.linkedin.com/in/abhishek-dhole/" target="_blank" style="transition: transform 0.3s;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="45" alt="Telegram" />
   </a>
-  <a href="https://www.instagram.com/your_username" target="_blank" style="transition: transform 0.3s;">
+  <a href="https://www.linkedin.com/in/abhishek-dhole/" target="_blank" style="transition: transform 0.3s;">
     <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" />
   </a>
-  <a href="https://discord.com/users/your_user_id" target="_blank" style="transition: transform 0.3s;">
+  <a href="https://www.linkedin.com/in/abhishek-dhole/" target="_blank" style="transition: transform 0.3s;">
     <img src="https://skillicons.dev/icons?i=discord" height="45" alt="Discord" />
   </a>
-  <a href="https://twitter.com/your_username" target="_blank" style="transition: transform 0.3s;">
+  <a href="https://www.linkedin.com/in/abhishek-dhole/" target="_blank" style="transition: transform 0.3s;">
     <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="Twitter" />
   </a>
 </p>
@@ -110,7 +110,7 @@
       <img src="https://skillicons.dev/icons?i=vscode" /><br/>VS Code
     </td>
      <td align="center">
-      <img src="[https://skillicons.dev/icons?i=vscode](https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg)" /><br/>FileZilla
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/FileZilla_logo.svg" /><br/>FileZilla
     </td>
   </tr>
 </table>
