@@ -29,7 +29,20 @@
   <a href="https://www.linkedin.com/in/abhishek-dhole/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
+  <a href="https://t.me/your_username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=telegram" height="40" />
+  </a>
+  <a href="https://www.instagram.com/your_username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="https://discord.com/users/your_user_id" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" />
+  </a>
+  <a href="https://twitter.com/your_username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
 </p>
+
 
 ---
 
