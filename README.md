@@ -22,26 +22,33 @@
 ---
 
 
-<p align="center">
- 🔗 Connect With Me
+<p align="center" style="font-size: 24px; font-weight: bold; margin-bottom: 20px;">
+  🔗 Connect With Me
 </p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-dhole/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<p align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/abhishek-dhole/" target="_blank" style="transition: transform 0.3s;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" style="border-radius: 10px;" />
   </a>
-  <a href="https://t.me/your_username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" height="40" />
+  <a href="https://t.me/your_username" target="_blank" style="transition: transform 0.3s;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" height="45" alt="Telegram" style="filter: invert(0.5); border-radius: 10px;" />
   </a>
-  <a href="https://www.instagram.com/your_username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  <a href="https://www.instagram.com/your_username" target="_blank" style="transition: transform 0.3s;">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" style="border-radius: 10px;" />
   </a>
-  <a href="https://discord.com/users/your_user_id" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="40" />
+  <a href="https://discord.com/users/your_user_id" target="_blank" style="transition: transform 0.3s;">
+    <img src="https://skillicons.dev/icons?i=discord" height="45" alt="Discord" style="border-radius: 10px;" />
   </a>
-  <a href="https://twitter.com/your_username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  <a href="https://twitter.com/your_username" target="_blank" style="transition: transform 0.3s;">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="Twitter" style="border-radius: 10px;" />
   </a>
 </p>
+
+<style>
+  a:hover img {
+    transform: scale(1.2);
+  }
+</style>
+
 
 
 ---
