@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/abhishek-dhole/" target="_blank" style="transition: transform 0.3s;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
   </a>
-  <a href="https://www.linkedin.com/in/abhishek-dhole/" target="_blank" style="transition: transform 0.3s;">
+<!--   <a href="https://www.linkedin.com/in/abhishek-dhole/" target="_blank" style="transition: transform 0.3s;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="45" alt="Telegram" />
   </a>
   <a href="https://www.linkedin.com/in/abhishek-dhole/" target="_blank" style="transition: transform 0.3s;">
@@ -40,7 +40,7 @@
   </a>
   <a href="https://www.linkedin.com/in/abhishek-dhole/" target="_blank" style="transition: transform 0.3s;">
     <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="Twitter" />
-  </a>
+  </a> -->
 </p>
 
 
