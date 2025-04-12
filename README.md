@@ -27,28 +27,21 @@
 </p>
 <p align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/abhishek-dhole/" target="_blank" style="transition: transform 0.3s;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" style="border-radius: 10px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
   </a>
   <a href="https://t.me/your_username" target="_blank" style="transition: transform 0.3s;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" height="45" alt="Telegram" style="filter: invert(0.5); border-radius: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="45" alt="Telegram" />
   </a>
   <a href="https://www.instagram.com/your_username" target="_blank" style="transition: transform 0.3s;">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" style="border-radius: 10px;" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" />
   </a>
   <a href="https://discord.com/users/your_user_id" target="_blank" style="transition: transform 0.3s;">
-    <img src="https://skillicons.dev/icons?i=discord" height="45" alt="Discord" style="border-radius: 10px;" />
+    <img src="https://skillicons.dev/icons?i=discord" height="45" alt="Discord" />
   </a>
   <a href="https://twitter.com/your_username" target="_blank" style="transition: transform 0.3s;">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="Twitter" style="border-radius: 10px;" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="Twitter" />
   </a>
 </p>
-
-<style>
-  a:hover img {
-    transform: scale(1.2);
-  }
-</style>
-
 
 
 ---
